@@ -8,7 +8,7 @@ on:
 
 env:
   ALIYUN_REGISTRY: "${{ registry.cn-hangzhou.aliyuncs.com }}"
-  ALIYUN_NAME_SPACE: "${{ qiankunydssqal }}"
+  ALIYUN_NAME_SPACE: "${{ sun-panel }}"
   ALIYUN_REGISTRY_USER: "${{ aliyun3892328065 }}"
   ALIYUN_REGISTRY_PASSWORD: "${{ qiankunYDS626972 }}"
 
