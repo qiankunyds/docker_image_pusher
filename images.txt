@@ -8,3 +8,4 @@ linuxserver/jackett
 whyour/qinglong
 allanpk716/chinesesubfinder
 LX-Music-Sync-Server
+wiznote/wizserver
