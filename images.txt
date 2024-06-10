@@ -7,3 +7,4 @@ nyanmisaka/jellyfin
 linuxserver/jackett
 whyour/qinglong
 allanpk716/chinesesubfinder
+LX-Music-Sync-Server
