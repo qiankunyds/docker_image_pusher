@@ -14,3 +14,4 @@ music
 wiznote/wizserver
 aibotk/wechat-assistant
 OneNav
+
