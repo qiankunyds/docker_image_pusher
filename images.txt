@@ -9,3 +9,8 @@ whyour/qinglong
 allanpk716/chinesesubfinder
 LX-Music-Sync-Server
 wiznote/wizserver
+Bitwarden
+music
+wiznote/wizserver
+aibotk/wechat-assistant
+OneNav
