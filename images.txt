@@ -1,2 +1,2 @@
-onething1/wxedge
+nginx-proxy-manager
 
