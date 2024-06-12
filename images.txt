@@ -1,6 +1,2 @@
-wiznote/wizserver
-Bitwarden
-wiznote/wizserver
-aibotk/wechat-assistant
-OneNav
+onething1/wxedge
 
