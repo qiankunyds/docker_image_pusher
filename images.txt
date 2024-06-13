@@ -1,2 +1,2 @@
-jc21/nginx-proxy-manager
+ubuntu
 
