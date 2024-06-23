@@ -1,3 +1,1 @@
-wbsu2003/lx-music-sync-server
-
-eosphorosai/dbgpt:latest
+eosphorosai/dbgpt
