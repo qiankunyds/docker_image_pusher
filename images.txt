@@ -2,4 +2,5 @@ celery_beat
 web
 celery_worker
 migrations
+db
 
