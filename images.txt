@@ -1,1 +1,6 @@
+redis
+celery_beat
+web
+celery_worker
 migrations
+
