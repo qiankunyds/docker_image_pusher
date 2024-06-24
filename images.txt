@@ -3,4 +3,4 @@ web
 celery_worker
 migrations
 db
-jason201/z_file
+zfile
