@@ -4,3 +4,4 @@ celery_worker
 migrations
 db
 zfile
+tiptime/ttnode
