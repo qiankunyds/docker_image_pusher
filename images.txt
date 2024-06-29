@@ -1,10 +1,1 @@
-celery_beat
-web
-celery_worker
-migrations
-db
-zfile
-tiptime/ttnode
-tiptime/ttnode
-neutrino-proxy
 nyanmisaka/jellyfin
