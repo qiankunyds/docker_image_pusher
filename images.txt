@@ -7,3 +7,4 @@ zfile
 tiptime/ttnode
 tiptime/ttnode
 neutrino-proxy
+nyanmisaka/jellyfin
