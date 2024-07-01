@@ -1,2 +1,1 @@
-centos
-centos
+oldiy/aria2-ui-ng
