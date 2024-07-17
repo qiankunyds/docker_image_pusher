@@ -1,1 +1,1 @@
-jc21/nginx-proxy-manager
+whyour/qinglong v2.17.5
