@@ -1,1 +1,3 @@
-claude
+lobehub/lobe-chat:latest
+ollama ollama/ollama:latest
+ollama/ollama:latest
