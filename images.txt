@@ -1,2 +1,3 @@
 frooodle/s-pdf
 niruix/sshwifty
+zerotier/zerotier-synology
