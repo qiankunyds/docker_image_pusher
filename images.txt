@@ -1,4 +1,1 @@
-fogforest/yesplaymusic
-musicn
-deluan/navidrome
-kofua/unlock-music
+docker-clean-wechat
